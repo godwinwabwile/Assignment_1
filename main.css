@@ -51,6 +51,10 @@ a:hover {
   .card-body{
     background-color: darkgrey;
   }
+  .card-body:hover{
+    background-color: antiquewhite;
+    border: 3px solid #f7f4ee;
+  }
   /*
    * Header
    */
